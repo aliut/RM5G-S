@@ -1,2 +1,0 @@
-# RM5G-S
-RM5G/S KERNEL 
